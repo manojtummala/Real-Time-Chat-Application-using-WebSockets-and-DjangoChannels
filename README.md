@@ -1,5 +1,5 @@
 # Real-Time-Chat-Application-using-WebSockets-and-DjangoChannels
-Its is a real time public chat website using pyhton Django framework, djangochannels and web sockets
+Its is a real time public chat website using python Django framework, djangochannels and web sockets
 
 <img src="pic1.png">
 
